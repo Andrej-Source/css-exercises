@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 182, 193);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#ide {
+    color: rgb(0, 0, 200);
+    font-size: 36px;
+}
+
+.un {
+    font-size: 36px;
+}
+
+#ide2 {
+    background-color: rgb(33, 250, 0);
+    font-size: 24px;
+    font-weight: 1000;
+}
