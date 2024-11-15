@@ -5,15 +5,15 @@
 
 #ide {
     color: rgb(0, 0, 200);
-    font-size: 36px;
 }
 
-.un {
-    font-size: 36px;
-}
 
 #ide2 {
     background-color: rgb(33, 250, 0);
-    font-size: 24px;
     font-weight: 1000;
+}
+
+.font,
+#ide  {
+    font-size: 36px;
 }
